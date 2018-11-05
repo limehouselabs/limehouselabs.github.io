@@ -5,6 +5,10 @@ baseurl: ""
 url: "https://www.limehouselabs.org"
 twitter_username: limehouselabs
 github_username:  limehouselabs
+twitter:
+  username: limehouselabs
+  card: summary
+lang: en_GB
 
 # Build settings
 markdown: kramdown
