@@ -1,9 +1,8 @@
 title: Limehouse Labs
-# email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Limehouse Labs is a small collaborative workshop based at Limehouse Town Hall in London.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.limehouselabs.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://www.limehouselabs.org"
 twitter_username: limehouselabs
 github_username:  limehouselabs
 
@@ -12,6 +11,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
