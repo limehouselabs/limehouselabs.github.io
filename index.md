@@ -4,14 +4,26 @@ layout: home
 <script type="application/ld+json">
 {
 	"@context":"http://schema.org",
-	"@type": "Place",
+	"@type": "LocalBusiness",
 	"name": "Limehouse Labs",
-	"address": "Limehouse Town Hall, 646 Commercial Rd, Poplar, London E14 7HA",
-	"geo": {
-    		"@type": "GeoCoordinates",
-    		"latitude": "51.512125",
-    		"longitude": "-0.031342"
-  	},
+	"legalName": "Limehouse Labs Ltd",
+	"url": "https://www.limehouselabs.org",
+	"location": {
+		"@type": "Place",
+		"name": "Limehouse Town Hall",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "646 Commercial Rd",
+			"addressLocality": "Poplar"
+			"addressRegion": "London",
+			"postalCode": "E14 7HA"
+		},
+		"geo": {
+			"@type": "GeoCoordinates",
+			"latitude": "51.512125",
+			"longitude": "-0.031342"
+		},
+	},
 	"description": "Limehouse Labs is a small collaborative workshop based at Limehouse Town Hall in London"
 }
 </script>
