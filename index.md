@@ -1,8 +1,10 @@
 ---
 layout: home
+seo:
+    type: Place
 ---
 
-Limehouse Labs is a small, friendly private hackspace based in [Limehouse Town Hall](https://www.limehousetownhall.co.uk/), East London, for people doing interesting things with hardware, software, craft and arts.
+Limehouse Labs is a small, friendly private <a href="https://hackspace.org.uk">hackspace</a> based in [Limehouse Town Hall](https://www.limehousetownhall.co.uk/), East London, for people doing interesting things with hardware, software, craft and arts.
 {: .intro-text}
 
 Our space is modest but has enough room for a few people to work, as well a laser cutter, 3D printers, and all other small prototyping equipment.
