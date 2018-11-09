@@ -14,7 +14,7 @@ layout: home
 		"address": {
 			"@type": "PostalAddress",
 			"streetAddress": "646 Commercial Rd",
-			"addressLocality": "Poplar"
+			"addressLocality": "Poplar",
 			"addressRegion": "London",
 			"postalCode": "E14 7HA"
 		},
