@@ -2,7 +2,17 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$grey-color-dark: #162212;
+$grey-color-light: #ADC7A5;
+$brand-color: #7E9078;
+
 @import 'minima';
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 5px;
+}
 
 .intro-text {
   font-size: 1.2em;
