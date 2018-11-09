@@ -1,8 +1,14 @@
 ---
 layout: home
-seo:
-    type: Place
 ---
+<script type="application/ld+json">
+{
+	"@context":"http://schema.org",
+	"@type": "Place",
+	"name": "Limehouse Labs",
+	"address": "Limehouse Town Hall, 646 Commercial Rd, Poplar, London E14 7HA"
+}
+</script>
 
 Limehouse Labs is a small, friendly private <a href="https://hackspace.org.uk">hackspace</a> based in [Limehouse Town Hall](https://www.limehousetownhall.co.uk/), East London, for people doing interesting things with hardware, software, craft and arts.
 {: .intro-text}
