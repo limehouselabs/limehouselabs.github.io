@@ -22,7 +22,7 @@ layout: home
 			"@type": "GeoCoordinates",
 			"latitude": "51.512125",
 			"longitude": "-0.031342"
-		},
+		}
 	},
 	"description": "Limehouse Labs is a small collaborative workshop based at Limehouse Town Hall in London"
 }
