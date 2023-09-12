@@ -3,11 +3,7 @@ description: >-
   Limehouse Labs is a small collaborative workshop based at Limehouse Town Hall in London.
 baseurl: ""
 url: "https://www.limehouselabs.org"
-twitter_username: limehouselabs
 github_username:  limehouselabs
-twitter:
-  username: limehouselabs
-  card: summary
 lang: en_GB
 
 # Build settings
