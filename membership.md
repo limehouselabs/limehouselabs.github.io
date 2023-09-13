@@ -12,9 +12,6 @@ We expect members to use the space at least every three months. If you are no lo
 
 If you're interested in joining, please come to our [public open events](/events) and have a chat with some of the members!
 
-(<em>Please note that our public events are currently suspended due to COVID-19,
-so we are unfortunately only accepting new members by personal recommendation.</em>)
-
 ## Supporters
 
 If you only drop by Limehouse Labs occasionally, but you still want to support us, you
