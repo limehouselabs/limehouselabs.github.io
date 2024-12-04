@@ -12,4 +12,6 @@ Our space is modest but has enough room for a few people to work, as well a lase
 
 Limehouse Labs aims to actively foster group projects, as well as being a workspace for personal tasks. We are linked to <a href="https://www.emfcamp.org/">Electromagnetic Field</a> and act as EMF's London base.
 
+We provide no commercial services, and we are not open to visitors without prior arrangement.
+
 For more information on joining as a member, visit our [membership](/membership) page.
