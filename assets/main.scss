@@ -18,3 +18,17 @@ $brand-color: #7E9078;
 .intro-text {
   font-size: 1.2em;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1rem;
+  padding: 0 1rem;
+}
+
+.gallery img {
+  width: 200px;
+  height: auto;
+  border: 1px solid #666;
+  border-radius: 2px;
+}
