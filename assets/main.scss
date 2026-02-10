@@ -32,3 +32,26 @@ $brand-color: #7E9078;
   border: 1px solid #666;
   border-radius: 2px;
 }
+
+.fridge-list {
+  list-style: none;
+  padding: 0;
+  margin-left: 0;
+}
+
+.fridge-list a {
+  font-size: 2rem;
+  text-align: center;
+  display: block;
+  border: 2px solid darken($brand-color, 30%);
+  padding: 0.5em 1em;
+  background-color: darken($brand-color, 10%);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  margin-bottom: 0.5em;
+}
+
+.fridge-list a:hover {
+  background-color: $brand-color;
+}
